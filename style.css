@@ -1,6 +1,6 @@
 h1{
-    color:rgb(68, 40, 2);
-    font: bold 60px Arial, Helvetica, sans-serif;
+    color:rgb(0, 0, 0);
+    font: bold 60px "Times New Roman", Times, serif;
 }
 
 .box-2{
@@ -21,18 +21,20 @@ h1{
     text-align:center;
 }
 
-.urlSize{
-    font: bold 36px Arial, Helvetica, sans-serif;
-}
-
-.rSize{
-    font: bold 20px Arial, Helvetica, sans-serif;
-}
-
 h2{
     text-decoration: underline;
 }
 
-a:link{
-    text-decoration: none;
+.intro{
+    text-align:center;
+    font: bold 40px "Times New Roman", Times, serif;
+    color:black;
+}
+
+.info{
+    text-align:left;
+    margin-left: 23.5em;
+    margin-right: 23.5em;
+    font: 20px "Times New Roman", Times, serif;
+    color: black
 }
