@@ -1,0 +1,38 @@
+h1{
+    color:rgb(68, 40, 2);
+    font: bold 60px Arial, Helvetica, sans-serif;
+}
+
+.box-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+}
+
+.box-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%
+}
+
+.container{
+    text-align:center;
+}
+
+.urlSize{
+    font: bold 36px Arial, Helvetica, sans-serif;
+}
+
+.rSize{
+    font: bold 20px Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+a:link{
+    text-decoration: none;
+}
